@@ -22,17 +22,6 @@
 // fibCounter() // should console.log "8"s
 
 
-function medianSortedArrays(){
 
-  var temp_arr = [];
-  var length = 0;
-  function popArrOne(){
-    for (var k = i ; k < arr1.length; k ++){
-      arr1[k] = arr2[k+ 1];
-      arr1.pop();
-    }
-
-
-  }
 
 }
